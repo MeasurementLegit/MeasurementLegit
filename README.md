@@ -8,14 +8,6 @@ My goal is to have a **full time job in a company as a Junior Frontend Web Devel
 
 Besides coding, I also enjoy reading comics and playing video games. :smile:
 
-<table style="border: none">
-  <tr >
-  <td width="60%" valign="top">
-
-  </td>
-  </tr>
-</table>
-
 ## :bar_chart: GitHub Stats
 
 |                                                                                                           |                                                                                      |
