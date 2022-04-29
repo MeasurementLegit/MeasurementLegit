@@ -1,10 +1,3 @@
-<p align="left">
-  <a href="https://twitter.com/GKlokowski" target="_blank"><img src="https://img.shields.io/twitter/follow/vanzasetia?logo=twitter&style=for-the-badge" alt="Twitter followers." /></a> 
-  <a href="https://www.frontendmentor.io/profile/vanzasetia" target="_blank"><img src="https://img.shields.io/badge/Frontend Mentor-Vanza Setia-informational?style=for-the-badge&logo=frontendmentor" alt="My frontendmentor profile." /></a> 
-  <a href="https://linktr.ee/vanzasetia" target="_blank"><img src="https://img.shields.io/badge/Linktree-Vanza Setia-brightgreen?style=for-the-badge&logo=linktree" alt="Linktree" /></a>
-  <img alt="GitHub" src="https://img.shields.io/github/license/MeasurementLegit/vanzasetia?color=green&style=for-the-badge">
-</p>
-
 # :wave: Hello Everyone! Take as much time as you want!
 
 There's no time limit, feel free to see my profile as long as you want. Anyway, I'm Vanza Setia, a passionate teenager (18 years old) on frontend web development who likes following best practices when doing Frontend Mentor projects and helping people by giving them feedback. **I have done over 15 projects and given over 300 feedback on Frontend Mentor**.
