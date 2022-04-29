@@ -1,13 +1,8 @@
 # :wave: Hello Everyone! Take as much time as you want!
 
-There's no time limit, feel free to see my profile as long as you want. Anyway, I'm Vanza Setia, a passionate teenager (18 years old) on frontend web development who likes following best practices when doing Frontend Mentor projects and helping people by giving them feedback. **I have done over 15 projects and given over 300 feedback on Frontend Mentor**.
+There's no time limit, feel free to see my profile as long as you want. Well, I am Geronimo Klokowski, a German teenager. I am 13 years old and found my hobby in programming about 2 years ago. Besides programming I also like to play video games or spend time with my friends.
 
-If you haven't joined [Frontend Mentor](https://www.frontendmentor.io/) yet, then I highly recommend you to join the community. It's **free**, **beginner friendly**, and **also help you show your skill**.
-
-My goal is to have a **full time job in a company as a Junior Frontend Web Developer**.
-
-Besides coding, I also enjoy reading comics and playing video games. :smile:
-
+My goal is to be a **developer for a big company e.g. Google, Apple, Microsoft.**.
 ## :bar_chart: GitHub Stats
 
 |                                                                                                           |                                                                                      |
@@ -17,7 +12,6 @@ Besides coding, I also enjoy reading comics and playing video games. :smile:
 <table style="border: none">
   <tr>
   <td width="50%" valign="top">
-
   </td>
   </tr>
 </table>
