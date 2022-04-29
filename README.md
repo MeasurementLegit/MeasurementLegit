@@ -12,23 +12,6 @@ Besides coding, I also enjoy reading comics and playing video games. :smile:
   <tr >
   <td width="60%" valign="top">
 
-## :book: Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-
-- [How I handle the Accordion Functionality [Walkthrough]](https://community.codenewbie.org/vanzasetia/how-i-handle-the-accordion-functionality-walkthrough-29n0)
-- [Recursion In Programming &lpar;Simplified Version&rpar;](https://community.codenewbie.org/vanzasetia/recursion-in-programming-simplified-version-2792)
-- [Random Quote Generator](https://community.codenewbie.org/vanzasetia/random-quote-generator-a8o)
-- [Relative vs Absolute File Paths](https://community.codenewbie.org/vanzasetia/relative-vs-absolute-file-paths-4j1n)
-  <!-- BLOG-POST-LIST:END -->
-
-    </td>
-    <td width="30%" valign="center">
-
-<a href="https://community.codenewbie.org/" target="_blank" rel="noopener" align="right">
-<img src="https://git.io/J937D" alt="" width="500px">
-</a>
-
   </td>
   </tr>
 </table>
