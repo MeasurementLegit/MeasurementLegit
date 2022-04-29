@@ -7,4 +7,4 @@ My goal is to be a **developer for a big company e.g. Google, Apple, Microsoft**
 
 |                                                                                                           |                                                                                      |
 | --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
-| ![Github stats](https://github-readme-stats.vercel.app/api?username=MeasurementLegit&show_icons=true&locale=en) | ![github streak](https://github-readme-streak-stats.herokuapp.com/?user=MeasurementLegit&)
+| ![Github stats](https://github-readme-stats.vercel.app/api?username=MeasurementLegit&show_icons=true&locale=en) | ![github streak](https://github-readme-streak-stats.herokuapp.com/?user=MeasurementLegit&) | ![github profile views](https://komarev.com/ghpvc/?username=MeasurementLegit)
